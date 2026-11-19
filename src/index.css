@@ -1,0 +1,12 @@
+/* Mengatur gaya dasar Tailwind CSS dan konfigurasi font Plus Jakarta Sans untuk seluruh aplikasi. */
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+  }
+}
