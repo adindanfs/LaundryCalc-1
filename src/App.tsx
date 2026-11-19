@@ -1,6 +1,7 @@
 // Menggabungkan katalog layanan, input berat, opsi tambahan, formulir pemesan, ringkasan biaya, dan dialog tinjauan LaundryCalc.
 import { useMemo, useRef, useState } from 'react';
 import { AddOnOptions } from './components/AddOnOptions';
+import { OperatingHoursHeader } from './components/OperatingHoursHeader';
 import { OrderForm } from './components/OrderForm';
 import { OrderReviewDialog } from './components/OrderReviewDialog';
 import { PriceSummaryBar } from './components/PriceSummaryBar';
@@ -154,6 +155,7 @@ export default function App() {
           <h1 className="text-2xl font-semibold text-neutral-900">
             Kalkulator Estimasi Laundry
           </h1>
+          <OperatingHoursHeader />
         </div>
       </header>
 

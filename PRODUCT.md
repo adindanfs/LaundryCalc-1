@@ -12,7 +12,7 @@ Dokumen ini mencatat daftar fitur dari PRD LaundryCalc v0.1, prioritas, ketergan
 | FT-04 | Floating Price Summary | Must Have | FT-01, FT-02, FT-03 | Selesai |
 | FT-05 | Form Data Pemesan | Must Have | FT-03 | Selesai |
 | FT-06 | WhatsApp Deep Link Button | Must Have | FT-01, FT-02, FT-03, FT-04, FT-05 | Selesai |
-| FT-07 | Info Jam Operasional Toko | Should Have | Tidak ada | Ditunda |
+| FT-07 | Info Jam Operasional Toko | Should Have | Tidak ada | Selesai |
 
 ## Catatan Klarifikasi & Keputusan PRD
 

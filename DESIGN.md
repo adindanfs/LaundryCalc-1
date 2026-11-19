@@ -12,6 +12,7 @@ Dokumen ini mencatat seluruh keputusan visual dan tata letak yang disetujui untu
 | Susunan halaman | Satu halaman bergulir | Alur vertikal mobile-first (`360 px` ke atas), melebar rapi di layar desktop |
 | Posisi aksi utama | Bar menempel di bawah layar + tinjauan pesanan | Sticky bottom bar dengan tombol `Tinjau Pesanan`, lalu drawer bawah (ponsel) atau modal (desktop) untuk konfirmasi dan tombol `Kirim ke WhatsApp` |
 | Gambar | Tanpa gambar | Kartu layanan ringkas berbasis tipografi dan hierarki angka |
+| Info jadwal (FT-07) | Teks polos dua baris di header | Dua baris ringkas `text-sm tabular-nums text-neutral-600` di bawah judul halaman tanpa kotak atau ikon |
 
 ## Token Permukaan, Tipografi, dan Status
 
